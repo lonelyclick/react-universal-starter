@@ -1,3 +1,1 @@
 # react-universal-starter
-
-## react server rendering...
